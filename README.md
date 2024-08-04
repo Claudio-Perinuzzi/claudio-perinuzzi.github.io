@@ -4,13 +4,12 @@ Welcome! I am Claudio Perinuzzi, a BA computer science senior at CUNY Queens Col
 
 ## Work
 
-View my work on [GitHub] (https://github.com/Claudio-Perinuzzi)
+View my work on [GitHub](https://github.com/Claudio-Perinuzzi)
 
 ## Resume
 
-View my [currivulum-vitae] (https://docs.google.com/document/d/1mQW1eXJuEnIQz1rKDgWfFcrV5rTf38YYW_tH8JZklak/edit?usp=sharing)
+View my [currivulum-vitae](https://docs.google.com/document/d/1mQW1eXJuEnIQz1rKDgWfFcrV5rTf38YYW_tH8JZklak/edit?usp=sharing)
 
 ## Connect
 
-Connect with me on [Likedin] (https://www.linkedin.com/in/claudio-perinuzzi/)
-
+Connect with me on [Likedin](https://www.linkedin.com/in/claudio-perinuzzi/)
