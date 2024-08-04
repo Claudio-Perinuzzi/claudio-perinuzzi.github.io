@@ -14,6 +14,6 @@ View my [curriculum-vitae](https://docs.google.com/document/d/1mQW1eXJuEnIQz1rKD
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/claudio-perinuzzi/)
 
-## Fun Fact
+## Fun Fact!
 
-I've became a second-degree instructor in 2018 at the Chinese Kung-Fu Wu-Su Association, a non-profit organization in New York dedicated to preserving and teaching a traditional system of Chinese martial arts that predates the modern codification of this art. 
+I've became a second-degree instructor in 2018 at the Chinese Kung-Fu Wu-Su Association, a non-profit organization in New York dedicated to preserving and teaching a traditional system of Chinese martial arts that predates the modern codification of this art. I owe a great deal of respect to this practice, as it has guided me through various tribulations in life and continues to be a source of strength and resilience for me.
